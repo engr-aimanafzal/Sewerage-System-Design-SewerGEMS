@@ -37,22 +37,22 @@ The proposed system is a **partially combined sewerage network** featuring a gra
 
 ### 1. Study Area & Network Layout
 **Project Area Map**
-![Project Area Map](./project_area_map)
+![Project Area Map](./project_area_map.jpeg)
 
 ### 2. Hydraulic Profile & Structural Design
 **Longitudinal Profile View (MH-20 to MH-34)**
 *This profile demonstrates gravity flow, adequate pipe slope, and confirms the Hydraulic Grade Line (HGL) remains below the ground surface, preventing surcharging.*
-![Sewer Profile View](./sewer_profile_view)
+![Sewer Profile View](./sewer_profile_view.jpeg)
 
 **Pumping Station Layout**
-![Pumping Station Layout](./pumping_station_layout)
+![Pumping Station Layout](./pumping_station_layout.jpeg)
 
 **Pumping Station Detailed Plan**
-![Pumping Station Plan](./pumping_station_plan)
+![Pumping Station Plan](./pumping_station_plan.jpeg)
 
 ### 3. Economic Analysis
 **Abstract of Capital Costs**
-![Capital Cost Summary](./capital_cost_summary)
+![Capital Cost Summary](./capital_cost_summary.jpeg)
 
 ---
 
